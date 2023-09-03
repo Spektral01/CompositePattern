@@ -1,0 +1,14 @@
+C:\Users\chaly\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.exe
+C:\Users\chaly\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.deps.json
+C:\Users\chaly\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.json
+C:\Users\chaly\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.runtimeconfig.dev.json
+C:\Users\chaly\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\chaly\source\repos\Pattern\Pattern\bin\Debug\netcoreapp3.1\Pattern.pdb
+C:\Users\chaly\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.AssemblyReference.cache
+C:\Users\chaly\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaly\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfoInputs.cache
+C:\Users\chaly\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.AssemblyInfo.cs
+C:\Users\chaly\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\chaly\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.dll
+C:\Users\chaly\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.pdb
+C:\Users\chaly\source\repos\Pattern\Pattern\obj\Debug\netcoreapp3.1\Pattern.genruntimeconfig.cache
